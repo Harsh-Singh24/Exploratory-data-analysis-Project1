@@ -8,7 +8,7 @@ Step 2: Data cleaning and Data wrangling. In this step we will deal with missing
 
 Step 3: Exploratory Data Analysis (EDA). EDA is an analysis approach that identifies general patterns in the data. We will also use visualisation to find insights from the data
 
-Main library used are: Numpy,Pandas,Matplotlib and Seaborn.
+Main librares used are: Numpy,Pandas,Matplotlib and Seaborn.
 
 ## Dataset
 We are given a hotel bookings dataset. This dataset contains booking information for a city hotel and a resort hotel. It contains the following features.
